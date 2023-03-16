@@ -1,1 +1,4 @@
-# tenge_bank_task
+# Tenge Bank Task
+
+A Flutter project.
+
